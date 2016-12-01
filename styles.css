@@ -1,0 +1,84 @@
+img {
+	max-width: 40%;
+}
+
+#header{
+	background-color: white;
+	width: 100%;
+	max-width: 1200px;
+	margin: auto;
+	text-align: center;
+	border-bottom: 1px solid black;
+}
+
+#logo{
+	display: inline-block;	
+	width: 25%;
+
+}
+
+#search-bar{
+	display: inline-block;
+	width: 50%;
+	vertical-align: middle;
+	font-size: 20px;
+}
+
+#account-buttons{
+	display: inline-block;
+	width: 24%;
+}
+
+#search-button{
+	display: inline-block;
+	font-size: 25px;
+}
+
+#home-link{
+	display: inline-block;
+}
+
+#videos-link{
+	display: inline-block;
+}
+
+#channels-link{
+	display: inline-block;
+}
+
+#create-account-link{
+	display: inline-block;
+}
+
+#or{
+	display: inline-block;
+	padding: 20px 5px;
+}
+
+#sign-in-link{
+	display: inline-block;
+}
+
+#subscriptions-link{
+	display: inline-block;
+}
+
+#history-link{
+	display: inline-block;
+	padding: 0 30px;
+}
+
+#upload-link{
+	display: inline-block;
+}
+.spacer{
+	display: inline-block;
+	padding: 0 15px;
+}
+.searchbar{
+	width: 50%;
+	font-size: 25px;
+}
+#ab2{
+	margin-left: 10px;
+}
