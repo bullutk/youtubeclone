@@ -29,9 +29,15 @@ img {
 	width: 24%;
 }
 
+#search-button button{
+	padding: 8px 8px;
+	font-size: 20px;
+
+}
 #search-button{
 	display: inline-block;
 	font-size: 25px;
+
 }
 
 #home-link{
